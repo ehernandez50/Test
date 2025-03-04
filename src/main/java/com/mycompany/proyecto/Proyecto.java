@@ -1,6 +1,6 @@
 
 package com.mycompany.proyecto;
-
+import java.util.Scanner;
 public class Proyecto {
 
     public static void main(String[] args) {
